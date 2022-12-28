@@ -1,0 +1,40 @@
+fieldset {
+  border: none;
+  font-size: 26px;
+  font-weight: 600;
+}
+#ed-m,
+#ed-y,
+#cvc {
+  width: 80px;
+}
+tr {
+  height: 40px;
+}
+td input {
+  border: none;
+  border-bottom: 1px solid rgb(224, 224, 224);
+  color: rgb(152, 147, 147);
+}
+label {
+  color: rgb(152, 147, 147);
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+#odd {
+  text-transform: initial;
+  color: grey;
+  font-weight: 400;
+}
+button {
+  border: none;
+  background-color: rgb(70, 180, 70);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-transform: uppercase;
+}
+.fa-credit-card {
+  color: gray;
+}

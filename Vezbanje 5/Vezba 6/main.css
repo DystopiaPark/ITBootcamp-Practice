@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  position: relative;
+}
+p {
+  width: 200px;
+  height: 150px;
+}
+#static {
+  background-color: yellow;
+}
+#relative {
+  background-color: red;
+  position: relative;
+  top: 50px;
+  left: 250px;
+}
+#absolute {
+  position: absolute;
+  background-color: lightblue;
+  top: 50px;
+  left: 450px;
+}
+#fixed {
+  position: fixed;
+  top: 150px;
+  right: 550px;
+  background-color: green;
+}
+#random {
+  background-color: lightcoral;
+  position: absolute;
+  bottom: -650px;
+}

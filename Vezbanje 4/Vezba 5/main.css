@@ -1,0 +1,21 @@
+table,
+td {
+  border: 2px blue solid;
+  padding: 0;
+  margin: 0;
+}
+table tr:nth-child(1) {
+  font-weight: 600;
+  text-align: center;
+}
+table {
+  position: relative;
+  display: inline-block;
+  background-image: url(/Radiohead_OK_Computer_1997.jpg.png);
+}
+td img {
+  object-fit: contain;
+}
+tr {
+  overflow: ;
+}

@@ -1,0 +1,32 @@
+body {
+  background: #9f76b2;
+  color: #483248;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+h1,
+h2 {
+  color: #5d071c;
+  text-align: center;
+}
+
+.belaPozadina {
+  background: white;
+}
+span {
+  color: orange;
+}
+img {
+  width: 400px;
+  height: 300px;
+  border: dotted 7px #5d071c;
+}
+.narandzastiTekst {
+  color: orange;
+}
+div a:nth-child(1) {
+  color: purple;
+}
+a {
+  color: orange;
+}

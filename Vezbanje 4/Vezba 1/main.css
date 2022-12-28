@@ -1,0 +1,62 @@
+body {
+  display: grid;
+  place-items: center;
+}
+main {
+  max-width: 700px;
+}
+img {
+  object-fit: cover;
+  height: 200px;
+  width: 120px;
+}
+.small {
+  height: 120px;
+  width: 70px;
+}
+h2 {
+  text-align: center;
+  margin-right: 3rem;
+}
+span {
+  font-style: bold;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+p {
+  max-width: 600px;
+}
+#problematic {
+  max-width: 150px;
+  margin: 0;
+}
+.second-table td {
+  font-size: 12px;
+  letter-spacing: 0.75px;
+}
+/* INDEX 2 */
+aside p {
+  max-width: 700px;
+  text-align: justify;
+  margin: 0;
+}
+h3 {
+  margin: 0;
+}
+section {
+  display: flex;
+  text-align: center;
+  gap: 3rem;
+}
+.index-imgs {
+  width: 170px;
+  height: 170px;
+}
+.justify {
+  font-size: 12px;
+  max-width: 200px;
+}
+.bold {
+  font-style: bold;
+  font-weight: 600;
+}

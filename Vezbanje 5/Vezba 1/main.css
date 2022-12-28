@@ -1,0 +1,21 @@
+div {
+  width: 200px;
+  border: 2px solid black;
+}
+img {
+  width: 200px;
+  object-fit: cover;
+  height: 200px;
+  border: 2px dotted red;
+  border-radius: 50%;
+}
+p {
+  height: 150px;
+  overflow: scroll;
+}
+span {
+  color: red;
+}
+h4 {
+  color: blue;
+}

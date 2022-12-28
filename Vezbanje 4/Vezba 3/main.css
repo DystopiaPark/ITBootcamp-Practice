@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+table {
+  border: 1px black solid;
+  background-color: rgb(247, 250, 250);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+td {
+  border: 1px black solid;
+}
+
+.vertical {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  font-weight: 600;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
+#dani {
+  text-align: center;
+  font-weight: 600;
+}
+table tr:nth-child(2) {
+  font-weight: 600;
+  text-align: center;
+}
+tr td:nth-child(1),
+#special {
+  font-weight: 600;
+}
+tr td {
+  width: 150px;
+}
+tr td:nth-child(1),
+tr td:nth-child(2) {
+  width: 18px;
+}
+tr td:nth-child(7) {
+  width: 200px;
+}

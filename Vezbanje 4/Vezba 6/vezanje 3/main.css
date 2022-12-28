@@ -1,0 +1,13 @@
+td {
+  border: 2px solid black;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  height: 20px;
+  width: 60px;
+}
+table tr:nth-child(4) {
+  height: 50px;
+}

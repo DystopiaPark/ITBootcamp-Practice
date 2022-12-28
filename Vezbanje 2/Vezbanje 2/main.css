@@ -1,0 +1,41 @@
+div {
+  background: lightblue;
+}
+div div:nth-child(1) {
+  background: green;
+}
+div span {
+  background-color: yellow;
+}
+div span:nth-child(2) {
+  background: gray;
+}
+#treci {
+  background: red;
+  color: white;
+}
+#treci span {
+  background: orange;
+}
+
+/* 
+div[id] {
+  background-color: red;
+  color: white;
+}
+div[id] > span {
+  background-color: orange;
+}
+div + span {
+  background-color: gray;
+}
+span {
+  background-color: yellow;
+}
+div > div {
+  background-color: green;
+}
+div {
+  background-color: blue;
+}
+ */

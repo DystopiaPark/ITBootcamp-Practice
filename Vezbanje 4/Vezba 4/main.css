@@ -1,0 +1,71 @@
+body {
+  display: grid;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+  color: orange;
+  text-transform: uppercase;
+}
+.section-div {
+  display: grid;
+  width: 750px;
+}
+h4 {
+  text-align: center;
+  color: blue;
+}
+.porodica {
+  border: 2px blue dashed;
+  border-radius: 50%;
+  width: 135px;
+  height: 135px;
+  position: relative;
+  margin-right: 0.25rem;
+}
+.section-div img {
+  border-radius: 50%;
+  object-fit: contain;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.section-div p {
+  padding-top: 5rem;
+  text-align: center;
+}
+#moj-broj {
+  border: 4px green solid;
+  border-radius: 50%;
+  width: 135px;
+  height: 135px;
+  position: relative;
+  margin-right: 0.25rem;
+}
+/* PRIJATELJI */
+.prijatelji {
+  border: 2px green dashed;
+  border-radius: 50%;
+  width: 135px;
+  height: 135px;
+  position: relative;
+  margin-right: 0.25rem;
+}
+#green {
+  color: green;
+}
+/* KOLEGE */
+.kolege {
+  border: 2px red dashed;
+  border-radius: 50%;
+  width: 135px;
+  height: 135px;
+  position: relative;
+  margin-right: 0.25rem;
+}
+#red {
+  color: red;
+}

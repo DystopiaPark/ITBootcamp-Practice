@@ -1,0 +1,49 @@
+body {
+  display: grid;
+  place-items: center;
+}
+.firstDiv {
+  border: solid blue 3px;
+  background: rgb(211, 211, 240);
+  width: 600px;
+}
+.secondDiv {
+  border: solid blue 1px;
+  margin: 1px;
+}
+h1 {
+  text-align: center;
+  color: green;
+}
+img {
+  margin-left: 1rem;
+  border: 5px dotted blue;
+  width: 200px;
+  height: 200px;
+}
+table {
+  margin-left: 1rem;
+}
+table,
+td {
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+td {
+  padding-left: 0.25rem;
+}
+ul {
+  margin-left: -0.5rem;
+}
+.block {
+  display: block;
+}
+.inline {
+  display: inline;
+}
+input {
+  margin: 0.25rem 0 0.25rem 0.25rem;
+}
+.round {
+  border-radius: 10px;
+}
