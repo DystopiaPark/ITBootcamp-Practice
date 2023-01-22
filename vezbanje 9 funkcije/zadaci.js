@@ -1,7 +1,7 @@
 // ZADATAK 1
 // Napisati funkciju suma kojoj se prosleđuju parametri n i m, dok funkcija vraća sumu
 // kubova brojeva od n do m.
-// Pozvati funkciju i njen rezultat ispisati u konzoli.
+// Pozvati funkciju i njen rezultat ispisati u konzoli..
 
 // arrow function
 

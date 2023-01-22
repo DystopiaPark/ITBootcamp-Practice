@@ -46,7 +46,7 @@ let prvoSlovo = (niz, slovo) => {
 
 prvoSlovo(nizStudenata, `v`);
 
-// 2 Funkciji se prosleđuje niz studenata i dva stringa, a štampa imena i prezimena svih studenata čije ime sadrži prvi string, a prezime sadrži drugi string.
+// 2 Funkciji se prosleđuje niz studenata i dva stringa, a štampa imena i prezimena svih studenata čije ime sadrži prvi string, a prezime sadrži drugi string..
 
 let prvoSlovo2 = (niz, slovo1, slovo2) => {
   niz.forEach((el) => {

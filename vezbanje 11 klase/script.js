@@ -35,7 +35,7 @@ let srednjaTalasnaDuzina = (niz) => {
 };
 console.log(srednjaTalasnaDuzina(nizBoja));
 
-// 2. DATUM========================================================================
+// 2. DATUM=======================================================================
 
 import { Datum } from "./DATUM/datum.js";
 

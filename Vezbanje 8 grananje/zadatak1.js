@@ -1,4 +1,4 @@
-// Za dva uneta broja ispisati koji je veći a koji je manji.
+// Za dva uneta broja ispisati koji je veći a koji je manji...
 let a = 35;
 let b = 45;
 
